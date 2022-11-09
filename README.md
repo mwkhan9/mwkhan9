@@ -21,4 +21,4 @@ My name is Waseh and I'm a computer science student at UCL.
 - 🌱 I’m currently learning: React Native
 - 📫 How to reach me: Email: knwaseh@gmail.com & LinkedIn: https://www.linkedin.com/in/muhammad-waseh-khan-705071222
 
-# My Site: https://waseh-khan.herokuapp.com
+# My Site: [https://waseh-khan.herokuapp.com](https://mwkhan9.github.io/portfolio_website/)
